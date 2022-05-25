@@ -1,0 +1,13 @@
+.button1 , .button2 {
+        font-size: 27px; line-height: 27px; padding: 6px; border-radius: 10px; font-family: Georgia, serif;  
+        box-shadow: black 5px 5px 5px 5px; border: 2px solid gray; display: inline-block;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+}
+
+.button2 {
+    background-color: yellow;
+}
